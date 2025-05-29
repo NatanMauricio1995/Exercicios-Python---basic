@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` para acompanhar seu notebook **"Exercícios Python - 1.ipynb"**, com foco em iniciantes e com espaço para futuras expansões:
-
----
-
 # 🐍 Exercícios de Python para Iniciantes
 
 Bem-vindo ao repositório **Exercícios Python - 1**! Este material é voltado para quem está começando a programar com Python e quer praticar os fundamentos da linguagem de forma prática e progressiva.
