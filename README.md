@@ -54,7 +54,3 @@ A cada atualização, novos conjuntos de exercícios serão adicionados, incluin
 ## 💡 Contribuição
 
 Sugestões de novos exercícios, correções e melhorias são bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
-
----
-
-Se quiser, posso gerar esse arquivo para você ou fazer ajustes com base no conteúdo exato do seu notebook. Deseja isso?
