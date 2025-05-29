@@ -29,7 +29,7 @@ Até o momento, o notebook cobre:
 1. Faça o download ou clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-python-iniciantes.git
+   [git clone https://github.com/seu-usuario/exercicios-python-iniciantes.git](https://github.com/NatanMauricio1995/Exercicios-Python---basic.git)]
    ```
 
 2. Abra o notebook no Jupyter Notebook, JupyterLab ou Google Colab:
